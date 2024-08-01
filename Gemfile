@@ -10,6 +10,7 @@ gem "importmap-rails"
 gem "turbo-rails"
 gem "stimulus-rails"
 gem "jbuilder"
+gem 'devise', '~> 4.9', '>= 4.9.4'
 
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
